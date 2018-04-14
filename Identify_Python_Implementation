@@ -1,0 +1,16 @@
+Python has many implementations like CPython(Python written in C) , Jython (Python written in Java) ....
+
+-> Which are the different implementations available of Python
+Check this out for all updates on Python's  Implementations-
+
+https://wiki.python.org/moin/PythonImplementations
+
+
+-> How to Identify Which implementation you are using ?
+
+Use below to check it out - 
+
+import platform 
+platform.python_implementation()
+
+
