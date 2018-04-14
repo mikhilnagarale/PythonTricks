@@ -1,0 +1,18 @@
+#Sample Program to use Dender Methods . For  Reference check out below the detail explaination given by Dan Bader.
+#Ref: https://youtu.be/aIdzBGzaxUo
+
+class Car:
+    def __init__(self,colour,milage):
+        self.colour=colour
+        self.milage=milage
+    def __repr__(self):    
+        return '{self.__class__.__name__}(self.colour,self.milage)'.format(self=self)
+            
+#Execution
+my_car=Car('red',10)
+my_car
+#output- 
+Car(self.colour,self.milage)
+
+
+
