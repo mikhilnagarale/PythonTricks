@@ -1,0 +1,20 @@
+#This is my references to python-
+
+
+#Links for cources, materials , etc
+http://interactivepython.org 
+https://www.tutorialspoint.com/python
+https://realpython.com/ 
+https://www.programiz.com/python-programming/iterator
+
+
+#Topics, Methods, etc-
+__init__()
+__name__()
+__str__()
+__repr__()
+__contains__()
+__iter__()
+__next__()
+
+
