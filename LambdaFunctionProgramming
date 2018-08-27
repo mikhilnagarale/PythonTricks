@@ -1,6 +1,0 @@
-#Reference
-https://www.python-course.eu/lambda.php
-
-#reduce function is not directly available in python. We need to import reduce from functools in python
-#Ref- https://www.python-course.eu/python3_lambda.php
-from functools import reduce
